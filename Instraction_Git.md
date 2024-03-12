@@ -28,3 +28,5 @@ local PC
 ✦ ```git pull``` – receiving changes and merging with local version
 
 ✦ ```git push``` – sends the local version of the repository to an external one
+
+✦ ```mkdir <name>``` – creating a folder
